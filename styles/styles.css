@@ -1,11 +1,19 @@
+.btn {
+  background-color: #8D0B41;
+  color: #5CB338;
+  padding: 20px;
+  border: solid 1px #8D0B41;
+  border-radius: 20px;
+}
+.btn-outline {
+  background-color: #5CB338;
+  color: #8D0B41;
+}
+
 .heading {
-  color: #a294f9;
+  color: #8D0B41;
 }
 
 .h2 {
-  color: #E82561;
-}
-
-body {
-  background-color: #FFCFCF;
+  color: #5CB338;
 }
